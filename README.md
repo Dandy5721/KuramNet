@@ -1,1 +1,1 @@
-# KuramNet for reviewing
+# KMNet for reviewing
